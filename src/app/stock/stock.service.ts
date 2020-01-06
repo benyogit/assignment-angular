@@ -59,7 +59,7 @@ export class StockService {
   getItemsUpdateListener() {
     return this.itemmsUpdated.asObservable();
   }
-  // tslint:disable-next-line: ban-types
+
   addItem(name: String, details: String) {
 
     console.log('res');
