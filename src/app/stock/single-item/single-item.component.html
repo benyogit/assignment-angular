@@ -1,0 +1,23 @@
+
+<button mat-button color="primary" routerLink="">Back to Stock</button>
+
+<mat-card *ngIf="item!=null">
+  <mat-card-header>
+
+
+
+    <mat-card-title>{{item.name}}</mat-card-title>
+
+    <mat-card-subtitle>Item Id: {{item.item_no}}</mat-card-subtitle>
+  </mat-card-header>
+
+
+  <mat-card-content>
+    {{item.details}}
+  </mat-card-content>
+
+  <mat-card-actions>
+
+    <button mat-raised-button color="primary" (click)= "onAddToInventory(item.item_no)">Add to Inventory</button>
+  </mat-card-actions>
+</mat-card>

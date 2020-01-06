@@ -1,0 +1,22 @@
+<mat-toolbar color="primary">
+
+    <span><a routerLink="" routerLinkActive="mat-accent" >Stock </a> </span>
+    <span><a routerLink="inventory" routerLinkActive="mat-accent" >Inventory List</a> </span>
+    <span class="spacer"> </span>
+  <ul>
+    <li>
+      <a mat-button routerLink="create" routerLinkActive="mat-accent">Add Item</a>
+    </li>
+    <li><a mat-button routerLink=""  [routerLinkActiveOptions]="{exact: true}"
+      routerLinkActive="mat-accent" >Stock</a>
+    </li>
+    <li>
+      <a mat-button routerLink="inventory" routerLinkActive="mat-accent" >Inventory</a>
+    </li>
+
+  </ul>
+
+</mat-toolbar>
+
+
+

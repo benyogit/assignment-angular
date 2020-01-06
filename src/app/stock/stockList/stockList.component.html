@@ -1,0 +1,21 @@
+
+<h1>Stock Items</h1>
+<mat-grid-list cols="3" rowHeight="2:1">
+
+      <mat-card  class="card" *ngFor="let item of items">
+          <mat-card-header   [routerLink]="['',item.item_no]">
+
+
+            <mat-card-title >{{item.name}}</mat-card-title>
+
+          </mat-card-header>
+
+
+          <mat-card-actions>
+            <button mat-stroked-button (click)= "onDelete(item.item_no)" color="warn">Delete</button>
+            <button mat-stroked-button (click)= "onAddToInventory(item.item_no)">Add to Inventory</button>
+            <button mat-stroked-button color="primary" [routerLink]="['',item.item_no]">More Details</button>
+          </mat-card-actions>
+        </mat-card>
+
+</mat-grid-list>
