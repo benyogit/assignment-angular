@@ -9,6 +9,9 @@
 
 # dependencies
 /node_modules
+/karma.conf.js
+/tsconfig.app.json
+/tsconfig.spec.json
 
 # profiling files
 chrome-profiler-events*.json
