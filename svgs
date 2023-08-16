@@ -1,9 +1,12 @@
-<svg width="52" height="73" viewBox="0 0 52 73" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="52" height="73" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_2972_41811" transform="matrix(0.0132438 0 0 0.00943396 -0.00988752 0)"/>
-</pattern>
-<image id="image0_2972_41811" width="77" height="106" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAABqCAMAAAG5eRyaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzUExURQAAAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAOmONxAAAAAQdFJOUwAdMkRTYnB+jJmot8TU4vHgjcDCAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA80lEQVRYR+3YwQ6DIBAEULS0arV1//9ru9A5kIi4BpqYdN6lg9msphIF3WmCX5XERP7o7132ws6R3GXaD1KJLAgJGRESMiAkxCOUPTK3xcuKRLSjE5EXcpHWZabxltZlpvaW1pmmttYhlU222b5oP1PDu8xIRER5xudJ27LwFEMsMZbNtrKxaZm3lRnpayyzeNrQc0qPXBDKDC+xUNYhlyzrDYmIiIj+QVjmRBhXQjPTTvxY227vb7cnhpXiRt34LeFY225hiatsn+YOXblbP0YY1et8owtTTe9p2ANFDxyoMqFZm25uiL3Wdn8dERER7XLuA7naDJTeT/G7AAAAAElFTkSuQmCC"/>
-</defs>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 15C14 14.4477 14.4477 14 15 14C15.5523 14 16 14.4477 16 15C16 15.5523 15.5523 16 15 16C14.4477 16 14 15.5523 14 15Z" stroke="#245CF3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+<path d="M8 15C8 14.4477 8.44772 14 9 14C9.55228 14 10 14.4477 10 15C10 15.5523 9.55228 16 9 16C8.44772 16 8 15.5523 8 15Z" stroke="#245CF3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+<path d="M14 9C14 8.44772 14.4477 8 15 8C15.5523 8 16 8.44772 16 9C16 9.55228 15.5523 10 15 10C14.4477 10 14 9.55228 14 9Z" stroke="#245CF3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+<path d="M8 9C8 8.44772 8.44772 8 9 8C9.55228 8 10 8.44772 10 9C10 9.55228 9.55228 10 9 10C8.44772 10 8 9.55228 8 9Z" stroke="#245CF3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
 </svg>
+
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 15H19" stroke="#46496C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5 9H19" stroke="#46496C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
