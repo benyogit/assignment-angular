@@ -9,3 +9,5 @@
 </clipPath>
 </defs>
 </svg>
+
+CORS(app, resources={r"/*": {"origins": "*"}})
